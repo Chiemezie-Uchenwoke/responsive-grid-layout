@@ -69,6 +69,7 @@
         grid-template-columns: 1fr 1fr 1fr;
         gap: 3rem;
         width: 70%;
+    }
 
         .two{
             grid-column: span 2;
@@ -81,5 +82,5 @@
         .six{
             grid-column: span 2;
         }
-    }
+    
 }
